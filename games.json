@@ -1,0 +1,56 @@
+[
+    {
+    "id": 1,
+    "name": "Horror 20's",
+    "description": "game description here",
+    "link": "https://game.link",
+    "image": "https://iamge.link",
+    "characters": [
+        {
+        "name": "alina james",
+        "description": "emli paul",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "alina hello",
+        "description": "geli broe",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 2,
+    "name": "Bullets On Broadway",
+    "description": "game description here",
+    "link": "https://game.link",
+    "image": "https://iamge.link",
+    "characters": [
+        {
+        "name": "alina james",
+        "description": "emli paul",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "alina hello",
+        "description": "geli broe",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+        }
+        }
+    ] 
+    }
+]

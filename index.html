@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+   	<meta name="description" content="">
+    <meta name="author" content="">
+    <title>Broadway Murder Mysteries - Form</title>
+
+    
+
+    <!-- Favicons-->
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" type="image/x-icon" href="img/apple-touch-icon-57x57-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="img/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="img/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="img/apple-touch-icon-144x144-precomposed.png">
+    
+      <!-- BASE CSS -->
+      <link href="css/bootstrap.min.css" rel="stylesheet">
+      <link href="css/custom.css" rel="stylesheet">
+
+      <!-- COMMON SCRIPTS -->
+     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+	   <script src="js/jquery-3.6.0.min.js"></script>
+     <script src="js/bootstrap.bundle.min.js"></script>
+
+</head>
+<body>
+    
+    <div id="app">
+      <div class="container py-5">
+      <form class="main-form">
+        <div class="form-wrapper row align-items-center justify-content-center">
+          <div class="col-md-12">
+          <template v-if="currentStep == 1">
+              <div class="form-step">      
+              <div class="text-wrap">
+                <h2>Choose Your Theme</h2>
+                <p class="fs-6 text-italic">Choose the game you are hosting from the list below to get started.</p>
+              </div>
+                <div class="did-floating-label-content" :class="{invalid_input: validationErrors.game }">
+                  <select class="games did-floating-select" v-model="formData.game"  :onchange="selectGame()" value="" required>
+                    <option value="0" disabled selected>Select your game</option>
+                    <option v-for="game in games" :value="game.id">{{game.name}}</option>
+                  </select>
+                  <label class="did-floating-label">Choose Game</label>
+                  <p class="invalid-error" v-show="validationErrors.game">
+                    "Please select a game.
+                  </p>
+                  </div>
+              </div>
+              
+          </template>
+
+          <template v-if="currentStep == 2">
+            <div class="form-step">
+            <div class="text-wrap">
+              <h2>Provide Party Details</h2>
+              <p class="fs-6 text-italic">Input your party details below to populate an email invitation for your guests with all the event details, you'll move on to step three where you can assign each role.</p>
+            </div>
+              <div class="did-floating-label-content" :class="{invalid_input: validationErrors.hostName }">
+                <input class="did-floating-input" v-model="formData.hostName" type="text" placeholder=" ">
+                <label class="did-floating-label">Your Name</label>
+                <p class="invalid-error" v-show="validationErrors.hostName">
+                  "Please input your name.
+                </p>
+              </div>
+              <div class="did-floating-label-content" :class="{invalid_input: validationErrors.hostEmail }">
+                <input class="did-floating-input" v-model="formData.hostEmail" type="email" placeholder=" ">
+                <label class="did-floating-label">Your Email</label>
+                <p class="invalid-error" v-show="validationErrors.hostEmail">
+                  "Please input a valid email address"
+                </p>
+              </div>
+              <inpu type="date" placeholder="date"/>
+              <div class="did-floating-label-content" :class="{invalid_input: validationErrors.partyDate }">
+                <input class="did-floating-input" v-model="formData.partyDate" type="date" placeholder=" ">
+                <label class="did-floating-label">Party Date</label>
+                <p class="invalid-error" v-show="validationErrors.partyDate">
+                  "Please input your party date.
+                </p>
+              </div>
+              <div class="did-floating-label-content" :class="{invalid_input: validationErrors.partyTime }">
+                <input class="did-floating-input" v-model="formData.partyTime" type="time" placeholder=" ">
+                <label class="did-floating-label">Party Time</label>
+                <p class="invalid-error" v-show="validationErrors.partyTime">
+                  "Please input your party time.
+                </p>
+              </div>
+              <div class="did-floating-label-content" :class="{invalid_input: validationErrors.partyLocation }">
+                <input class="did-floating-input" v-model="formData.partyLocation" type="text" placeholder=" ">
+                <label class="did-floating-label">Party Location</label>
+                <p class="invalid-error" v-show="validationErrors.partyLocation">
+                  "Please input your party location.
+                </p>
+              </div>
+              <div class="did-floating-label-content" :class="{invalid_input: validationErrors.noteFromHost }">
+                <textarea class="did-floating-input" rows="5" v-model="formData.noteFromHost" placeholder=" "></textarea>
+                <label class="did-floating-label">Note from the host</label>
+                <p class="invalid-error" v-show="validationErrors.noteFromHost">
+                  "Please input your party .
+                </p>
+              </div>
+            </div>
+            </template>
+
+          <template v-if="currentStep == 3">
+            <div class="form-step">
+            <div class="text-wrap">
+              <h2>Cast The Roles</h2>
+              <p class="fs-6">Please input your guests' names and email address next to the role you would like to assign them. By doing this, they will receive a unique email with their character assignment, role information, and costume suggestions along with all of the details for your party.</p>
+              <p class="fs-6">If you are playing without a character, simply leave the name and email field next to that role blank. </p>
+            </div>
+            <div>
+            <div v-if="validationErrors.characters" class="alert alert-danger mb-4">
+                <p class="fs-6">Please add a valid email address or leave it empty</p>
+            </div>
+            
+            <div class="accordion" id="roleCasting">
+              <div v-for="game in formData.selectedGame" class="accordion-item">
+                <h2 class="accordion-header " :id="'rolecasting_title_game'+game.id">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" :data-bs-target="'#rolecasting_game'+game.id" aria-expanded="false" :aria-controls="'rolecasting_game'+game.id">
+                    <i class="casting-checked-pending"></i>
+                    {{game.name}}
+                  </button>
+                </h2>
+                <div :id="'rolecasting_game'+game.id" class="accordion-collapse collapse" :aria-labelledby="'rolecasting_title_game'+game.id" :data-bs-parent="'#rolecasting_game'+game.id">
+                  <div class="accordion-body">
+                    <div class="role-casting-table">
+                      <table class="table table-striped">
+                        <thead>
+                          <tr>
+                            <td>Character Name</td>
+                            <td>Guest Name</td>
+                            <td>Guest Email</td>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <tr v-for="character in game.characters">
+                            <td>{{ character.name }}</td>
+                            <td><input type="text" class="form-control" v-model="character.player.name" placeholder="Enter your Name"></td>
+                            <td><input type="email" class="form-control" v-model="character.player.email" placeholder="Enter your Email"></td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                    </div>
+                </div>
+              </div>
+            </div>
+            </div>  
+          </div>
+          </template>
+
+          <template v-if="currentStep == 4">
+            <div class="form-step">
+            <div class="text-wrap">
+              <h2>Send Invite to User</h2>
+              Based on all of the information you have provided, each guest will receive the following email template tailored with the information you've provided in steps 1-3 with your party details and their character information</p>
+            </div>
+              <div class="view-email-template">
+                 <button type="button" class="btn btn-warning btn-lg mb-3" data-bs-toggle="collapse" data-bs-target="#emailTemplate" aria-expanded="false" aria-controls="emailTemplate">view email template</button>
+              </div>
+            <div class="collapse" id="emailTemplate">
+              <div class="card card-body">
+                
+                <p><strong>Subject:</strong> You're Invited to a Murder Mystery Party By<strong class="highlighter">HOSTNAME</strong></p>
+                <hr class="mb-5">
+                <p>Hi <strong class="highlighter">GUEST NAME</strong>,</p>
+                <p>You're cordially invited to a Murder Mystery Party by <strong class="highlighter">HOST FIRST AND LAST NAME</strong> on <strong class="highlighter">PARTY DATE</strong> at <strong class="highlighter">PARTY TIME</strong>!</p>
+                <p>Party Location: <strong class="highlighter">PARTY LOCATION</strong></p>
+                <p>A special note from your host: <strong class="highlighter">NOTE FROM THE HOST</strong></p>
+                <p>Each guest has been assigned a character in the game. Your role details and costume suggestions are below:</p>
+                <table class="table">
+                  <thead>
+                    <tr>
+                      <th>Character Name</th>
+                      <th>Character Description</th>
+                      <th>Costume Suggestions</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>John Doe</td>
+                      <td>Whit & Wilhemina's daughter.  A young, budding entrepreneur recently graduated from Harvard.  Following in her mother's footsteps by launching a brand of handbags</td>
+                      <td>anything</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <p>To learn more about your character, get links to purchase recommended costumes on Amazon, and additional information on this game and how to play, visit the game dashboard: <a class="highlighter" href="#">GAME LINK  </a></p>
+                <p>You are encouraged to show up in costume based on your own comfort level.</p>
+                <p>What you need to prepare in advance:</p>
+                <p>If you are playing this game in-person, then there is nothing you need to prepare in advance. Materials will be provided by the host upon arrival at the event.</p>
+                <p>If you are playing virtually via Zoom or another video chat platform, we recommend visiting the game dashboard link above to download the Character Script for the role you've been assigned, as well as the Question Menu.</p>
+                <p>For questions regarding this party, please contact your host: <a href="#"><strong class="highligher">HOSTNAME (HOSTEMAIL)</strong></a></p>
+                <p>Break a leg!</p>
+                <p>Want to host your own Murder Mystery Party? Visit us at <a href="http://www.BroadwayMurderMysteries.com/">www.BroadwayMurderMysteries.com</a>!</p>
+              </div>
+            </div>
+          </div>
+          </template> 
+          <template v-if="currentStep == 5">
+            <div class="form-step">
+              <div class="text-wrap">
+                <h2>Verify your indentity</h2>
+                <p>We have sent a One-Time Password (OTP) to the email address you provided, <strong class="text-decoration-underline">{{this.formData.hostEmail}}</strong>. Please check your email and enter the OTP within the next 60 minutes to complete the verification process. This OTP will expire after 60 minutes for security purposes.</p> 
+                
+              </div>
+              <div v-if="!API.success" class="alert alert-danger">
+                  <p>{{API.message}}</p>
+              </div>
+              <div class="did-floating-label-content input-pin" :class="{invalid_input: validationErrors.hostPin }">
+                <input class="did-floating-input" v-model="formData.hostPin"  type="text" placeholder=" ">
+                <label class="did-floating-label">Verification Code</label>
+                <p class="invalid-error" v-show="validationErrors.hostPin">
+                  "Please input a valid Pin"
+                </p>
+              </div>
+              
+            </div>
+          </template>
+          
+          <div class="main-form-btngroup d-flex gap-3 justify-content-end">
+          <button type="button" class="btn btn-lg mr-2 btn-outline-secondary" v-if="currentStep > 1" @click="prevStep">BACK</button>
+          <button type="button" class="btn btn-lg mr-2 btn-primary" v-if="currentStep < maxStep" @click="nextStep">NEXT</button>
+          <button type="button" class="btn btn-lg mr-2 btn-primary" v-else @click="submitForm()" :disabled="btnDisabledsSubmit">SUBMIT</button>
+          </div>
+        </div>
+       </div>
+      </form>
+    </div>
+    </div>
+
+    <script>
+      const { createApp } = Vue
+    
+      createApp({
+        data(){
+          return {
+            currentStep: 1,
+            maxStep: 5,
+            btnDisabledsSubmit: false,          
+            formData: {
+              hostName: "",
+              hostEmail: "",
+              hostPin: "",
+              partyDate: "",
+              partyTime: "",
+              partyLocation: "",
+              noteFromHost: "",
+              game: 0,
+              selectedGame: {},
+            },
+            validationErrors: {
+              hostName: false,
+              hostEmail: false,
+              hostPin: false,
+              partyDate: false,
+              partyTime: false,
+              partyLocation: false,
+              noteFromHost:  false,
+              game: false,
+              characters: false,
+            },
+            API: {
+              success: true,
+              message: "",
+            },
+            games:[]
+          }
+        },
+        methods: {
+          validateForm(){
+            
+            if(this.currentStep === 1){
+                //check length of games array
+                this.validationErrors.game = !(this.formData.game > 0);
+                return this.validationErrors.game;
+            }
+            if(this.currentStep === 2){
+                //check host input fields
+                this.validationErrors.hostName = !(this.formData.hostName.length > 0)
+                this.validationErrors.hostEmail = !(this.formData.hostEmail.length > 0)
+                //email verification
+                let emailRegex = /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/;
+                this.validationErrors.hostEmail = !emailRegex.test(this.formData.hostEmail);
+                this.validationErrors.partyDate = !(this.formData.partyDate.length > 0)
+                this.validationErrors.partyTime = !(this.formData.partyTime.length > 0)
+                this.validationErrors.partyLocation = !(this.formData.partyLocation.length > 0)
+                this.validationErrors.noteFromHost = !(this.formData.noteFromHost.length > 0)
+              
+                // loop through validation errors and return false if any errors found
+                for (let key in this.validationErrors) {
+                  if (this.validationErrors[key] === true) {
+                    return true;
+                  }
+                }
+            }
+            if(this.currentStep === 3){
+              //check if email is valid
+              let emailRegex = /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/;
+              let characters = this.formData.selectedGame[0].characters; 
+
+              for(let character in characters){
+                 if(characters[character].player.email.length > 0 && !emailRegex.test(characters[character].player.email)){
+                    this.validationErrors.characters = true;
+                    return true;
+                 }
+              }
+            }
+            if(this.currentStep === 4){
+               this.sendVerificationPin();
+            }
+            if(this.currentStep === 5){
+              //check host pin
+              this.validationErrors.hostPin = !(this.formData.hostPin.length > 0)
+              return this.validationErrors.hostPin;
+            }
+           
+            return false;
+          },
+          async nextStep(){
+            let errors = await this.validateForm()
+            console.log(errors, this.currentStep);
+            //if errors is true, then scroll to top
+            if(errors && this.currentStep === 3){
+              //show error message, In bootstrap alert
+              
+
+              window.scrollTo(0, 0);
+            }
+            //if errors is false, then increment step
+            
+            if (!errors && this.currentStep < this.maxStep) {
+              this.currentStep++
+            }
+          },
+          prevStep(){
+            if (this.currentStep > 1) {
+              this.currentStep--
+            }
+          },
+          selectGame(){
+              this.formData.selectedGame = this.games.filter((game) => game.id === this.formData.game)
+          },
+          sendVerificationPin(){
+            //send verification pin to host email
+            fetch('http://localhost:3000/send/verification', {
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json'
+              },
+              body: JSON.stringify({
+                hostName: this.formData.hostName,
+                hostEmail: this.formData.hostEmail
+              })
+            }).then(response => response.json()).then(data => {
+              
+                this.API.success = data.success;
+                this.API.message = data.message;
+              
+            }).catch(error => {
+              console.error(error)
+              this.API.success = false;
+              this.API.message = error.message;
+            });
+          
+          },
+          async submitForm(){
+            this.btnDisabledsSubmit = true;
+            let errors = await this.validateForm();
+            if(!errors){
+              //send form data to server
+                fetch('http://localhost:3000/send-email', {
+                  method: 'POST',
+                  headers: {
+                    'Content-Type': 'application/json'
+                  },
+                  body: JSON.stringify(
+                    this.formData
+                  )
+                }).then(response => response.json()).then(data => {
+                  console.log(data);
+                  if(!data.success){
+                    this.API.success = data.success;
+                    this.API.message = data.message;
+                    this.btnDisabledsSubmit = false;
+                    
+                  }
+                  else{
+                    console.log("success submit");
+                    window.location.href = "/thankyou.html";
+                  }
+                }).catch(error => {
+                  console.error(error)
+                  this.API.success = false;
+                  this.API.message = error.message;
+                  this.btnDisabledsSubmit = false;
+                });
+            }
+            else{
+              this.btnDisabledsSubmit = false;
+            }
+          
+          }
+        },
+        computed: {
+          currentStepComponent() {
+              switch (this.currentStep) {
+                case 1:
+                  return 'Step1'
+                case 2:
+                  return 'Step2'
+                case 3:
+                  return 'Step3'
+                case 4:
+                  return 'Step4'
+              }
+          },
+          validateAgain(){
+            // return this.validateForm(); 
+          },
+        },
+        created() {
+          fetch('./games2.json')
+            .then(response => response.json())
+            .then(data => {
+              this.games = data;
+            })
+            .catch(error => console.error(error));
+      }
+      }).mount('#app')
+    </script>
+   
+</body>
+</html>
+

@@ -1,0 +1,5042 @@
+[
+    {
+    "id": 1,
+    "name": "80S MALL MURDER MADNESS",
+    "description": "It is 1985, and real estate developer and entrepreneur Whit Wiley has just cut the ribbon opening the newest marvel in his shopping mall empire: the Wiley Waterside Galleria Mall in Malibu.Whit was to top the Forbes list of most rich and powerful men of 1985 - until he washed up in the mall fountain, strangled by his skinny tie. Who could be responsible for the murder of this influential businessman ? Was it his first wife Willhemina Wiley, seeking revenge for Whit Wiley 's many extramarital affairs?  Was it local super shopper Connie Sumer, angry over the Gallerias inflated scrunchie prices?  Or was it fashion designer Cal Von Cline, who objected to Wiley's appallingly gaudy bad taste ? Time to whip out that credit card and tease that hair as big as it can go - we are shopping for a murderer in 80 s Mall Murder Madness! Appropriate for ages 16 + !",
+    "link": "https://www.broadwaymurdermysteries.com/products/80s-mall-murder-madness",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/1561391_SquareVersionofLogos_7_022023_78880a39-0b06-4a1c-8719-9d6bd3af538c_1024x1024.jpg?v=1677088682",
+    "characters": [
+        {
+        "name": "Willow Wiley",
+        "description": "Whit & Wilhemina's daughter.  A young, budding entrepreneur recently graduated from Harvard.  Following in her mother's footsteps by launching a brand of handbags",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Val Laye (N)",
+        "description": "Whit Wiley's driver.  Knows all the Wiley family's dirty laundry.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sam Goody (N)",
+        "description": "Music store retailer at the Wiley Waterside Galleria.  An aspiring entrepreneur.  Clothing look is pure Miami Vice.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Johnny Mopps",
+        "description": "The janitor at the Galleria.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Fanny Paque",
+        "description": "A local roller skating activist - wants a roller rink in the mall.  Your look is pure Jazzercize with a side pony and many scrunchies.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Dickie Dorkus",
+        "description": "Local math whiz and science geek - he got a job at Chess King.  Harbors a big crush on Tina Queen.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Connie Sumer",
+        "description": "Local Malibu resident and super shopper.  A self-proclaimed mall expert.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Willhemina Wiley",
+        "description": "Whit Wiley's first wife, currently separated.  A trophy bride, Willhemina hails from an unnamed Eastern European country.  Launched her own couture brand of perfumes, make-up and jewelery",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Tina Queen",
+        "description": "Local teenage beauty queen vying for the title of Miss Teen Malibu - Whit Wiley sponsors the pageant.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Patsy Stells",
+        "description": "Local investigative reporter doing a story on the Wiley family.  Vying for her own TV show a la Lifestyles of the Rich & Famous.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Hillary Ballstone",
+        "description": "A local politician who objected to Whit Wiley's presence in Malibu. ",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Eddie Acity (N)",
+        "description": "Food court manager at the Wiley Waterside.  Insatiably hungry.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Chad Fox",
+        "description": "Tina Queen's boyfriend - they're a shoo in for Prom King & Queen, which was going to be held at the Galleria.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Whit Wiley Jr.",
+        "description": "Whit & Wilhemina's son.  Not nearly as bright as his sister Willow.  Wishes he was his dad's favorite",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Swipes Cardigan (N)",
+        "description": "Handles luxury imports for the Wiley family and the Galleria.  Seems like Euro trash but is from New Jersey.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Marty Mullets (N)",
+        "description": "Whit Wiley's hair stylist - opened a hair salon in the Galleria.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Gordon Banks",
+        "description": "Whit Wiley's accountant.  A Wall Street type.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "DJ Flyswatter (N)",
+        "description": "The mall DJ.  Striving for their own show on MTV.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Cal Von Cline (N)",
+        "description": "A famous fashion designer.  Wearing VERY dramatic sunglasses",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Betty Bangs",
+        "description": "Whit Wiley's mistress.  A salesgirl/model at Contempo Casuals.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 2,
+    "name": "Bullets On Broadway",
+    "description": "It’s opening night of Murder in the First on Broadway, and nerves are high. The cast and crew are all a buzz backstage with the excitement of the lights, the sounds - and the dead body of big-shot Broadway Producer. There lies Jack Bialystock, shot in the back center stage before the curtain could rise. Was the murderer a cast member, like Anita Part who’s making her Broadway debut tonight, or seasoned performer Sienna Stealer? Was it the sleazy casting director Colin Back, or a member of the audience like Megan Phan who somehow wandered backstage? There’s only one way to find out: play the game Bullets on Broadway! But hold onto your overpriced wine—the murderer may be YOU! Appropriate for ages 16+!",
+    "link": "https://www.broadwaymurdermysteries.com/products/bullets-on-broadway",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/1561391_SquareVersionofLogos_1_021723_c5b7cf51-5035-4e53-aeaa-9d7d6c933dc5_1024x1024.jpg?v=1677088569",
+    "characters": [
+        {
+        "name": " Idina Mental",
+        "description": "Sexy and sultry, Idina’s the leading lady everyone dreams of and she knows it. Her long gown and ruby red lips are enough to make any man kill.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Billy Bergamont",
+        "description": "Billy is a dashing young playwright with wit and charm...maybe too much for his own good.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Julie Tamenomore",
+        "description": "Julie is the Director, an artistic and creative soul with a dark secret.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Bob Blandley",
+        "description": "Bob is a dry and dull theatre critic whose husband’s shopping addiction is getting in the way of his work.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Audrey Torium",
+        "description": "Audrey is a mousy and meek Usher with a timid demeanor...or so she likes people to think.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Anita Part",
+        "description": "Anita is a young actress fresh to New York City. She’s green, wide eyed, and overly enthusiastic…with a secret past.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Robert Whineman",
+        "description": "Robert is a greasy sleeze ball talent agent with slicked back hair and a black eye.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Matthew Broadneck",
+        "description": "Matthew’s the leading man, a bit past his prime, with something to prove.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Kaitlyn Chinnoweth",
+        "description": "Kaitlyn is a busty blonde actress who likes to show skin and get attention...and sometimes she catches the wrong eye.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sam Rubin",
+        "description": "Sam is a bitter Producer and here for business, nothing more.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Megan Phan",
+        "description": "Megan Phan is a fan who traveled to New York just for this opening night performance, and the hope that she could get Idina’s autograph…and maybe more.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Trip Fallington",
+        "description": "Trip is the trap door operator and a tough guy with tattoos and a record.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Roy Floosey",
+        "description": "Roy is an investor in the show and is dressed in an ill fitting suit and dirty old shoes.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ivana Cut",
+        "description": "Ivana is Idina Mental’s agent and will do anything to get her commission check...even if it means making a killer deal.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sienna Stealer",
+        "description": "Sienna is an actress in the show. She’s a loose cannon and always drunk or hopped up on something.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Colin Back",
+        "description": "Colin is a well known Casting Director with a sleazy personality. He’s overly flirtatious and it gets him in trouble.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "William Mundy",
+        "description": "William is an old friend, partner, and most trusted confidant of the deceased.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Lue Jackman",
+        "description": "Lue is a flamboyant, over the top, character actor dressed in brightly colored clothes. He’s clearly overcompensating for some deeply held secret.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Franky Stub",
+        "description": "Franky is a meek and nervous Box Office boy who’s always late for work. He has a pimple face, bowl cut hair and he’s got a stutter.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Bobby Straum",
+        "description": "Bobby is a ruggedly handsome guitar player with a man bun...and a grudge.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 3,
+    "name": "Murder at the Roller Rink: An 80s Teen Murder Mystery",
+    "description": "It’s 1988, and the Podunk Roller Rink is filled with teens showing off their shoulder pads and mullets—but it’s a strangely-assorted group. They ignore each other as much as possible and they seem resentful, almost like they’re here on detention. And why are the cool kids, the loners and the nerds all here together, skating dully in a circle? The people watching from the sidelines are equally mismatched: the rink employees, tired of renting skates and selling hot dogs; the retired roller derby pros, bored by the lack of violence; and the town prudes, obsessed with the possibility that the teens might start enjoying themselves or even worse—dancing. Suddenly, there is a scream. The body of Kevin Floosey, the new kid in town, has been found in the back hallway. It looks like someone strangled him with a leg warmer. Who could have done such a terrible thing to a guy who just wanted to dance… or is that really all he wanted? Who knows? Maybe YOU killed him!",
+    "link": "https://www.broadwaymurdermysteries.com/products/murder-at-the-roller-rink-an-80s-teen-murder-mystery",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/ScreenShot2022-10-06at8.39.29PM_923d952b-c8f8-468f-8331-da08516ae5f0_1024x1024.png?v=1677088552",
+    "characters": [
+        {
+        "name": "Cardi Gann",
+        "description": "Preppy princess, always wears pink. Spoiled, boy crazy.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Brock Mussels",
+        "description": "All-round star jock. Expects everyone to adore him, barely passes his classes. ",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Mallie Schuss",
+        "description": "Mean girl, queen bee of her clique. Fake-sweet to everyone’s face.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Alpro Gramm",
+        "description": "Computer nerd. Obsessed with playing Rubik’s Cube and War Games.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Jell Ann Glidder",
+        "description": "Cheerleader and Valley Girl. Like, totally enthusiastic.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Gnarr Lee",
+        "description": "Surfer dude, super cool and laidback.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Vickie Stiles",
+        "description": "Fashionista. Big hair and a bigger ego.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Arlo Knurr",
+        "description": "Social outcast, sneers at everyone. No one knows why he’s here.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Juana B. Madonna",
+        "description": "Material girl. Obsessed with you-know-who. Always “voguing.”",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Haviland Slide",
+        "description": "Class President. Wins every election by a suspicious margin.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Lash Black",
+        "description": "Goth Occultist. Likes to make everything mysterious and otherworldly.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Paddy Primm",
+        "description": "Goody two-shoes, tattletale. Unpopular with kids, teacher’s pet.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Momo Hawke",
+        "description": "Punk rocker. Likes to smash things—and people. Always angry.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Terry Tune",
+        "description": "Band nerd. Tries to get attention with practical jokes.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sox Seiser",
+        "description": "Skate rental clerk. Bored, dreaming about breaking out of this town.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ree Phill",
+        "description": "Refreshment counter worker. Jealous of the cool kids who don’t have to work.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Helma T. Hedd",
+        "description": "Rink owner. Retired roller derby pro, tough and desperate for money.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Jammie D. Blocker",
+        "description": "Roller derby pro, Helma’s friend. Looking for a chance to body slam someone.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Kerr Fuller",
+        "description": "High school vice-principal. Strictly enforces high school rules everywhere.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Gabby Guster",
+        "description": "Prudish Podunk mayor. Always looking for signs of teen depravity, such as dancing. (Adult)",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 4,
+    "name": "Murder By Midnight A New Years Eve Mystery",
+    "description": "It’s New Years Eve at the DeBubbles Champagne Vineyards and Distillery in Champagne, France. The DeBubbles mansion is always the place to be at the stroke of midnight - the champagne flows as easily as the conversation. That is, until patriarch of the DeBubbles family fortune, grandpa Delroy DeBubbles, winds up dead! Who could have executed such a dastardly plot on such a happy occasion? Was it Delroy’s second wife, Babette DeBubbles? Or perhaps the head winemaker for the rival LeCorque family, Monte Pulciano? Could it have been a disgruntled patron, like Reese Ling or employee, Mary Tage? There’s only one way to find out - play Murder By Midnight! But hold onto your champagne because the killer could be YOU! Appropriate for ages 13+! This game takes 1-2 hours to play depending on your group size.",
+    "link": "https://www.broadwaymurdermysteries.com/products/murder-by-midnight-a-new-year-s-eve-mystery",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/1561391_SquareVersionofLogos_6_022023_1024x1024_04a7a518-6823-49bb-8e01-1c5fd4ffc19e_1024x1024.webp?v=1677002823",
+    "characters": [
+        {
+        "name": " Babette DeBubbles",
+        "description": "Delroy's Second, very young, Wife. She's American with a southern accent.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Destin DeBubbles",
+        "description": "Delroy's eldest son and heir to the DeBubbles fortune. Speaks with a French accent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Papa LeCorque",
+        "description": "Rival Champagne producer whose crop was recently destroyed in a fire. Speaks in a heavy French accent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Pro Secco",
+        "description": "Organized Crime Boss and friend of the LeCorque family. British accent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sylvie Yung Blanc",
+        "description": "A wealthy wine investor with a huge stake in the DeBubbles business. American accent, upper class Californian.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Monte Pulciano",
+        "description": "Head winemaker for the LeCorque winery. Italian accent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Shannon Blanc",
+        "description": "Unruly daughter of Sylvie Blanc who'd rather be anywhere else for NYE. American, valley girl.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Reese Ling",
+        "description": "A member of the DeBubbles wine club who's planning her wedding on the estate.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sherry Raz",
+        "description": "Event manager for the DeBubbles estate. French accent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Rose Spritzer",
+        "description": "Delroy's mistress. German accent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Frank Cabernet",
+        "description": "Delroy's driver and confidant. French accent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Peter Verdot",
+        "description": "Winery bookkeeper. French accent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Molly Beck",
+        "description": "Wine insurance broker. American accent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Kira Anti",
+        "description": "Babette's Sister. Loves Champagne a little too much. Southern accent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Brut Secco",
+        "description": "Wine storage stocker. Works in the warehouse and keeps to himself. British accent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ivan Gris",
+        "description": "Top wine sales representative. French. Mary Tage Tasting Room Manager. French accent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Demi Seck",
+        "description": "The DeBubbles head winemaker. French accent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Vito Vinifera",
+        "description": "A journalist from Food and Champagne Magazine. American accent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Dee Canting",
+        "description": "Head Sommelier for the DeBubbles café. British accent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 5,
+    "name": "Holiday Horror: Murder At The Ugly Sweater Office Holiday Party",
+    "description": "The Tasty-Ful Design Company’s holiday office party is swinging—as well as a party can when it’s held in the breakroom on a Friday afternoon. And when everyone, from the VP down to the Security Guard, is decked out for an “Ugly Sweater” contest. But things are about to get uglier, as someone peeks into the copy room and finds Nepo Tasty, the owner’s nephew, strangled with the sleeves of his own sweater. Who would do such an ugly thing on such a festive occasion? It could have been one of the employees that Nepo had insulted. It could have been someone who was jealous of his place in the owner’s affections. And ugliest of all—it could have been YOU! Appropriate for ages 13+!",
+    "link": "https://www.broadwaymurdermysteries.com/products/holiday-horror",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/1561391_SquareVersionofLogos_4_021723_50056b10-415a-4a63-8b4f-d61b2c1a0c87_1024x1024.jpg?v=1677088633",
+    "characters": [
+        {
+        "name": " ADDIE MINN (F)",
+        "description": "Office Manager. Dragon Lady of the Supply Closet.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "BASHA RAINJUR (N)",
+        "description": "Event Planner. Not from around here, sly.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "COLE DURR (M)",
+        "description": "Programmer. Obsessed with finding bugs.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "DAMIUN PADE (N)",
+        "description": "Intern. Strangely enthusiastic about doing the ugliest jobs.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "DEE ZINER (F)",
+        "description": "Online Presence Manager. Ambitious, sarcastic.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "DREW PITCHERS (N)",
+        "description": "Graphic Artist. Creatively mocking.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "FIFI NANCE (F)",
+        "description": "Money Manager. Office whiner, complains about everything.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "FILLMORE ORDERS (M)",
+        "description": "Warehouse Manager. Overworked and stressed-out.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "GIDEON “GIDDER” DUNNE (M)",
+        "description": "VP Operations. Micromanager with a mysterious past.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "LOTTO MOPP (N)",
+        "description": "Cleaner. Always boasting about being smart.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "MINNIE Q. BICKEL (F)",
+        "description": "Facilities Manager. Always takes a bet.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "PAT ROLLE (N)",
+        "description": "Security Guard. Nosy, always sneaking up on people.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "REE CRUTON (N)",
+        "description": "HR Manager. Talks to everyone like they’re five.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "ROOK E. BOOKER (N)",
+        "description": "New Sales Rep. Gullible, always falls for tricks.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "SELLON SLICK (M)",
+        "description": "Successful Sales Rep. Thinks he’s hotter than he is.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "SUE ENWIN (F)",
+        "description": "Legal Counsel. Talks behind people’s backs, drives new hires away.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "SUSANNAH LIST (F)",
+        "description": "Pricing Analyst. Detail-Oriented, Nitpicky.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "THYME LYON (N)",
+        "description": "Project Manager. Counting the days until retirement.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "TREY CARRIERE (M)",
+        "description": "Caterer. Resentful of corporate types.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "WALT ERCOOLER (M)",
+        "description": "Office Gossip. No one knows what he does.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 6,
+    "name": "Roaring 20’S: Death By Bathtub Gin",
+    "description": "It’s 1923, and the speakeasy is packed for the birthday party of Al Spumoni, the world-famous bootlegger and ice cream tycoon. A waiter dims the lights for Al to blow out the candles on his cake. When the lights come back up, Al toasts the crowd, takes one sip of his special drink, then chokes and dies. Who poisoned Al’s bathtub gin while the lights were out? Was it one of the gangsters in the room? A high-kicking flapper? A visiting silent film star? Or could it have been—YOU? Appropriate for ages 13+!",
+    "link": "https://www.broadwaymurdermysteries.com/products/roaring-20-s-murder",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/1561391_SquareVersionofLogos_3_021723_34760d2a-edb5-4421-94d8-70e989f4fb62_1024x1024.jpg?v=1677088555",
+    "characters": [
+        {
+        "name": "Texas Lil",
+        "description": "Speakeasy Owner",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Carr Nash",
+        "description": "Member of the Spumoni Gang",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Goldie Eggar",
+        "description": "Greedy Flapper",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Kylmor Kydd",
+        "description": "Young Gangster Wannabe",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Jay V. Aitore",
+        "description": "Famous Daredevil Pilot.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Tecklin Ivory",
+        "description": "Speakeasy Piano Player",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Kix Higher",
+        "description": "Speakeasy Dancer",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Dandy Mund",
+        "description": "Stylish Member of the Spumoni Gang",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Daffy Dill",
+        "description": "Seemingly Air-headed Flapper",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Gore Ubee",
+        "description": "Member of the Red Gang",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ivar City",
+        "description": "College Football Star",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Wanna E. Mote",
+        "description": "Silent Film Star",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Gimmy A. Nuther",
+        "description": "Speakeasy Bartender",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ziggy A. Rhett",
+        "description": "Outside Vendor working the club",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Emma Rauld",
+        "description": "Mysterious Flapper",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Daye Z. Doofus",
+        "description": "The best sharp shooter West of the Mississippi.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Rosa Gotagat",
+        "description": "Member of the All-Female Petals Gang",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Polly Hanna",
+        "description": "Inexperienced Young Flapper",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Lady Garr",
+        "description": "Speakeasy Singer",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Taps Fasta",
+        "description": "Speakeasy Dancer",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 7,
+    "name": "Masquerade & Murder",
+    "description": "In the grand ballroom of Retribution Manor, costumed guests are gossiping at a masquerade party. Everyone wants to know: “Who invited us here?” “Who assigned us our mask colors?” “Who would throw such a lavish party in a haunted house?” No one has answers—they only know that they were instructed to be here, or their secrets would be revealed to the world. One by one, they are called to the study to meet with the unknown host. After each meeting, a subdued guest shuffles out, muttering that “somebody should kill that guy!” The party continues with guests sullenly milling about and waiting for the host’s next ugly surprise. The clock strikes midnight. On the twelfth chime, the study door flies open and a man cloaked in black stumbles out. “One of you did this! One of you—” He gasps and falls to the ground, dead, with a knife protruding from his back. His mask falls too, revealing the face of Ispil DeBeens, local historian and investigative reporter. A cold wind blows through the room; the doors slam and lock shut. Howling is heard from every corner. The guests are trapped here with the ghosts that infest the manor! They stare at each other, wondering which of them had a secret so precious that it led to murder. YOU are one those guests. DID YOU DO IT?? Appropriate for ages 16+! This game takes 1-2 hours to play depending on your group size.",
+    "link": "https://www.broadwaymurdermysteries.com/products/masquerade-murder?variant=42980001546469",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/Screen_Shot_2021-07-12_at_3.58.40_PM_1_2fc03bf6-4923-4eed-85a3-7430d864cf7b_1024x1024.png?v=1677088577",
+    "characters": [
+        {
+        "name": "Beady",
+        "description": "Artistic type. Goes for excess at work and play.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Blue",
+        "description": "Professional entertainer. Passionate about their art—and everything else.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Floral",
+        "description": "Agricultural type. Obsessed with eliminating weeds and other pests.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Green",
+        "description": "Legal professional. Jealous of anyone else getting attention.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Plaid",
+        "description": "Professional gameplayer. Scottish, always planning their next move.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Red",
+        "description": "Food activist. Always trying to pick a fight. Doesn’t mind spilling human blood.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Yellow",
+        "description": "Food producer. Encourages people to eat bugs (“I do!”)",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Beast (animal print)",
+        "description": "Outdoorsy type. Casual about telling the truth or obeying rules.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Brown",
+        "description": "Athletic safety professional. Proud of their bod, can't stand to be teased",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Glittery",
+        "description": "Artistic type. Flamboyant, always wants things exactly their way.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Lacy",
+        "description": "Body worker. Seems transparent but really a clever schemer.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Polka Dot",
+        "description": "Legal professional. Indecisive, easily persuaded.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "White",
+        "description": "Outdoorsy, scientific type. Self-righteous and pure (on the surface).",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Black-And-White",
+        "description": "Business professional. Insists on always being right.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Feathery",
+        "description": "Literary type. Fluttery with constant worrying.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Gray",
+        "description": "Kids’ Entertainer. Sad drinker, stubborn, never lets anyone pass.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Orange",
+        "description": "Agricultural type. Gushes about how wonderful things are.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Pink",
+        "description": "Kids’ Educator. Talks down to everyone.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Purple",
+        "description": "Daredevil athletic type. Likes to brag—a lot.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Wooden (Wood Grain)",
+        "description": "Professional athlete. Breaks their equipment when frustrated.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 8,
+    "name": "Murder Under The Big Top",
+    "description": "It’s 1952, and P. U. Barnhum’s world-famous three-ring circus has come to Podunk! The town is overwhelmed by the excitement, the lights, the animals, and the—dead body of the ringmaster. Yes, there lies Rhett Coate, shot to death right in the center ring. The circus owner, P. U. Barnhum, is in a tizzy. Was the murderer a fellow circus performer, like Malcolm Laff the clown, or the trapeze act Jess Fling/Ann Ketch? Was it one of the carnival attractions, like Christa Bawle the fortuneteller or Isalotta Herr the bearded lady? Or maybe it was a member of the audience like Arlo Kell, someone with cause to dread the reappearance of a Podunkian who ran off to join the circus… But hold onto your popcorn—the murderer may be YOU! Appropriate for ages 13+! This game takes 1-2 hours to play depending on your group size.",
+    "link": "https://www.broadwaymurdermysteries.com/products/murder-under-the-big-top",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/1561391_SquareVersionofLogos_2_021723_e6717765-752b-4eb9-9bfc-0da18acb0a7e_1024x1024.jpg?v=1677088593",
+    "characters": [
+        {
+        "name": " Malcolm Laff",
+        "description": "A zany clown with a dark secret past.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "P.U. Barnham",
+        "description": "The circus owner.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Janosz Addel",
+        "description": "A bareback rider.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Trey Sepp",
+        "description": "The strong man.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Droppin Plop",
+        "description": "The circus sweeper who found the body.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Mayor Primm",
+        "description": "Podunk’s Mayor.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Isolatta Herr",
+        "description": "The bearded lady with a grudge.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Carrack D. Whipp",
+        "description": "The lion tamer with secrets to hide.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Pops “Salty”",
+        "description": "The Veteran Popcorn vendor in everyone’s business.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Christa Bawle",
+        "description": "The fortune-teller.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Blaise N. Thoreaute",
+        "description": "The fire eater with a sore throat.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ray Zenet",
+        "description": "Roustabout strong enough to pitch the tent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Bay B. Babar",
+        "description": "The elephant tamer who will protect his elephant at any cost.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Totha Lyon",
+        "description": "A tightrope walker who looks down on everyone.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Tango Splatt",
+        "description": "The human cannonball who’s hit his head one too many times.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Annie Croakley",
+        "description": "The best sharp shooter West of the Mississippi.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Jess Fling",
+        "description": "A trapeze artist.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ann Ketch",
+        "description": "A trapeze artist.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Arlo Kell",
+        "description": "A local Podunkian with a grudge.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Yoyo Kell",
+        "description": "A local Podunkian married to Arlo.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 9,
+    "name": "Horror On The Haunted House",
+    "description": "You are one of a group of thrill-seeking tourists gathered for a Halloween night ghost tour. You huddle close together as the howling wind swirls dead leaves around the five historic houses in the square. Four of them are guaranteed to be haunted by murder victims from decades past; the fifth house is where the tour starts and costumed actors re-enact the crimes that created the ghosts. The Tour Guide leads you up the dim creaking staircase and turns you loose to explore the upper floor. Screams punctuate the silence as the actors jump out of their hiding places to portray murderers and victims. Suddenly, one more scream is heard and a heavy weight tumbles down the stairs. When the Security Guard turns on the lights, you can see the lifeless body of the Tour Guide sprawled on the lower landing. Somebody has pushed her—but who? And why? Appropriate for ages 13+! This game takes 1-2 hours to play depending on your group size.",
+    "link": "https://www.broadwaymurdermysteries.com/products/horror-on-the-haunted-house-tour",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/1561391_SquareVersionofLogos_8_022023_9a4839af-63d3-48ac-a2f5-1dab2a926d65_1024x1024.jpg?v=1677088575",
+    "characters": [
+        {
+        "name": "Di Dodd Lee",
+        "description": "Female, Actor, Strangulation Victim. 1920’s costume, red ring around neck.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Strayan Glurr",
+        "description": "Actor, strangling murderer. 1920’s costume, black gloves.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Inez Scent",
+        "description": "An actor who plays Victim in House #3, an electrocution victim. She wears a 1950’s mother costume with frizzy (shocked) hair.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Babs Seede",
+        "description": "Female, Adult actor playing a child murderer. 1950’s little girl clothes. Hairbow, lollipop.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Edgar Senick",
+        "description": "Male, Actor, mild-mannered, poisoning victim. 1960’s costume, carries a coffee cup.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sherry Venger",
+        "description": "Actor, poisoner. 1960’s costume, carries a coffee pot.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Knott A. Ware",
+        "description": "Actor, stabbing victim, airhead. 1980’s costume, bloody slashes.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Imus Lasher",
+        "description": "Actor, deranged stabbing murderer. 1980’s horror movie costume. Fake knife.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Juanna B. Astarr",
+        "description": "New Tour Guide learning the script; ambitious. Modern dress, clipboard, flashlight.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Conn D. Sending",
+        "description": "Male, Tourist; local historian and know-it-all. Bow tie, tweedy jacket, pipe. Pale make-up.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Maya Sirr",
+        "description": "Tourist, thinks this tour costs too much. Old clothes, large purse.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Rye Val",
+        "description": "supposed to be a Tourist, but takes too many notes and photos. Casual clothes, note-taking device, white glove (for dust).",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Siena Tawle",
+        "description": "Tourist, out-of-town visitor, has been on dozens of ghost tours. Traveling gear.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Oscare D. Katt",
+        "description": "Tourist, scared of everything, especially ghosts. Modern clothes.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Rhett Hawt",
+        "description": "Tourist, angry that his date stood him up. “Date” clothes, big pockets.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Jesse Checken",
+        "description": "Local Airbnb owner checking out the city attractions. Casual clothes, note-taking device.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ray Tings",
+        "description": "A travel blogger here to secretly review the tour for a travel website.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Boast Buster",
+        "description": "A suspicious tourist who takes too many notes and photos. Backpack, camera.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Yash Reek",
+        "description": "“Ringer” Tourist; hired for their screaming skills. Casual clothes.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Noel Zee",
+        "description": "Tourist, keeps wandering out of bounds. Sloppy clothes, unshaven.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 10,
+    "name": "Royally Bashed: Murder At Ridgerton Park",
+    "description": "The town of Highbourne is abuzz. The Prince Regent, Richard, and his wife, Princess Liesl, are on a royal tour of the kingdom. The royal entourage has stopped for two nights at Ridgerton Park, the estate of Lord Bertram. He is hosting a grand dinner for the royal couple and has invited several influential families from nearby. Hopeful young ladies are in attendance to find a wealthy husband. Wealthy young men are avoiding the gold-digging ladies and their pushy mothers. The less fortunate young men are in search of a young lady of large fortune. At the height of the party, someone screams. Lord Bertram, is in his study, slumped over and dead as a doornail. Who is responsible for Lord Bertram's death? Was it one of the mothers of the young ladies, who have been fruitlessly trying to marry their daughters to any one of Lord Bertram's sons? Did someone murder him for his money? Or did the butler do it? The game is afoot, both upstairs AND downstairs, at the Ridgerton Park estate- so watch out! The killer may even be you! Appropriate for ages 16+! This game takes 1-2 hours to play depending on your group size.",
+    "link": "https://www.broadwaymurdermysteries.com/products/royally-bashed-murder-at-ridgerton-park?variant=42980027662565",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/Royally_Bashed_1_aed03117-83dd-4714-b6f1-130824582f05_1024x1024.png?v=1677088561",
+    "characters": [
+        {
+        "name": " Avery Peters (N)",
+        "description": "Leader of the Peters family; their sole concern is finding a wealthy husband for all of their daughters.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Betsy Peters",
+        "description": "Eldest daughter of the Peters family; intelligent and lively.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Cass Peters (N)",
+        "description": "Middle child of the Peters family; bookish and socially awkward.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Catherine Peters",
+        "description": "Youngest daughter of the Peters family; spoiled and extremely flirtatious.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Lady Bertram",
+        "description": "Matriarch of the Betram family, rival family of the Peters.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Percy Collins",
+        "description": "Lord Bertram's eldest son; appears proud, haughty, and cold.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Penelope Collins",
+        "description": "Lord Bertram's eldest daughter of the Bertram family; she judges people who are not as wealthy as her own family.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Frederick Collins",
+        "description": "Lord Bertram's son; wants to join the church and become a vicar.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Aubrey Collins (N)",
+        "description": "Youngest child of the Bertram family; shy and sweet.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Edward Kingsley",
+        "description": "A young man of great fortune; kind, compassionate, and friendly.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Emilia Kingsley",
+        "description": "Edward Kingsley's young, beautiful wife.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "John Candlewick",
+        "description": "An officer in the militia; the godson of Lord Bertram and boyhood friend of Percy.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Lord Bunbury",
+        "description": "Lady Bunbury's much older husband; advisor to the Prince Regent.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Quinn, A Servant (N)",
+        "description": "One of the servants in Lord Bertram's household.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Princess Liesl",
+        "description": "A German princess and Prince Richard's wife.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Lady Bunbury",
+        "description": "Princess Liesl's lady-in-waiting, accompanying the Prince Regent and his wife on their tour.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Hill, Head Servant (N)",
+        "description": "Lord Bertram's head servant.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "William McCoy",
+        "description": "A 19-year old stableboy in one of Lord Bertram's stables; takes care of Lady Bertram's horse.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Cook (N)",
+        "description": "The cook at Lord Bertram's estate.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Richard, Prince Regent",
+        "description": "Loves a lavish lifestyle and spends a lot of money on cosmetics, perfumes, food, clothes, parties, etc.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 11,
+    "name": "Operation Save Santa",
+    "description": "It’s December 23rd and Santa Claus is missing! What’s worse, he was the only one who knew the password for the master “Nice vs. Naughty” database. The North Pole is in an uproar, with Mrs. Claus, elves, reindeer, and various visitors milling about pointing fingers at each other. Luckily, a Canadian Mountie stops in for a cup of hot chocolate and takes charge. “We have to work together to save Santa and Christmas!” she says. Take on a North Pole character and help uncover who kidnapped Santa! Of course, maybe YOU did it yourself… Appropriate for ages 10+! This game takes 1-2 hours to play depending on your group size",
+    "link": "https://www.broadwaymurdermysteries.com/products/operation-save-santa?variant=42980037132517",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/north_pole_1_3ac80c4e-b0a8-4963-8c21-0caffdca86e3_1024x1024.png?v=1677088563",
+    "characters": [
+        {
+        "name": " MRS. CLAUS",
+        "description": "Santa’s cozy wife, who may or may not be as devoted as she seems",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "SKIPPER ELF",
+        "description": "Head elf, conceited micro-manager",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "DENTIST ELF",
+        "description": "Elf who dreams of becoming a dentist",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "INCREDIBLE GROWING ELF",
+        "description": "Human who grew up with the elves—and kept on growing",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "SHELF ELF",
+        "description": "Tattletale elf who likes to sit around and spy on people",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "DASHER",
+        "description": "Fast-paced reindeer, always breathless",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "DANCER",
+        "description": "Artistic reindeer, always taking “ballet” poses",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "PRANCER",
+        "description": "Energetic reindeer, always bouncing around",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "VIXEN",
+        "description": "Naughty reindeer, always teasing the others",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "COMET",
+        "description": "Flashy reindeer, always strutting their stuff",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "CUPID",
+        "description": "Matchmaking reindeer, always trying to find true love for others",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "DONNER",
+        "description": "Confused reindeer, always getting lost in the snow",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "BLITZEN",
+        "description": "Comedian reindeer, always telling jokes that bomb",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "ROO DOLPH",
+        "description": "Red-nosed reindeer, tries help but something always goes wrong",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "HUEMANN SNOWE",
+        "description": "Know-it-all snowperson, full of useless advice",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "CONDUCTOR DARNDELAY",
+        "description": "Cranky oldster, obsessed with being on time",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "TOOTH FAIRY",
+        "description": "Magical being, loves to hand out candy",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "APOLLO BARE",
+        "description": "Big furry polar bear who thinks they’re a kitten",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "ARTY C. FOXX",
+        "description": "Sly fox who steals anything that isn’t locked up",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "KERRY BOO",
+        "description": "Caribou who dreams of working as a reindeer",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 12,
+    "name": "Drama At Drag Brunch",
+    "description": "It's showtime at Fortune Fanny's, the hottest (and only) Drag Brunch and Bingo on Long Island. The gals are all a busy fingering their feathers, dusting on glitter - and gagging over two dead bodies.There lay the Sequin Sisters who started their act with a death drop unlike any queen has ever seen. Play along with “Casey Closed” the Drag Detective (Ginger Minj from RuPaul’s Drag Race) to catch the killer! Was the murderer a rival act, like Miss Anita Margarita who's been after their gig for months? Could it have been the club manager, Spike Deals who takes a little off the top? Or how about Susan Seam who made all the Sequin Sisters' garments? There's only one way to find out who committed this double homo-side: play the murder mystery party game Drama at Drag Brunch: The Slaying of the Sequin Sisters. But hold onto your brunch - the killer could be YOU! Rated R: Appropriate for ages 18+! This game takes 1-2 hours to play depending on group size.",
+    "link": "https://www.broadwaymurdermysteries.com/products/drama-at-drag-brunch-the-slaying-of-the-sequin-sisters",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/1561391_SquareVersionofLogos_5_022023_4359c453-90cd-4111-8619-e0fd251304f8_1024x1024.jpg?v=1677088544",
+    "characters": [
+        {
+        "name": " Penny Slot",
+        "description": "A new queen who coincidentally just arrived in town from Vegas today.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Shana Tova",
+        "description": "A Jewish queen who's been saving up to start her own food truck 'Lotza Matzo Ballz!'",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Tony “Just The” Tip",
+        "description": "The bouncer and trade of the club.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Miss Anita Margarita",
+        "description": "A long-time drag performer at Fortune Franny's who's been gunning for the headler act.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Mary Bloody",
+        "description": "The bartender with a record who keeps tabs on all the girls.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Mrs. Doubtmeyers",
+        "description": "A regular from the nursing home next door. She comes for the BINGO, not the drag. ",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Mr. Charlie Ruples",
+        "description": "The club owner who is used to having no competition.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Lady Legs Benedickt",
+        "description": "One of the brunch acts. A flirt with long legs.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Patti LuBoner",
+        "description": "A raunchy Broadway Queen with big ambitions, and that's not the only thing. Normally works the late-night shift but had to fill in for a sick queen today last minute.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Poppy Pills",
+        "description": "A queen with a drug problem.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Lauren Ipsum",
+        "description": "A book smart backstabber who knows all the gossip.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Virginia Slims",
+        "description": "A seductress queen who’s the fishiest girl around.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Spike Deals",
+        "description": "The club manager who takes a little off the top.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Daryl Ict",
+        "description": "A couch surfing bus boy with a passion for destruction.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Tammy May",
+        "description": "Here for her bachelorette party and out of her league.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sylvester Alone",
+        "description": "The jealous ex boyfriend of one of the queens.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Shanita Drink",
+        "description": "The cocktail waitress who’s always getting stiffed.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Chase Banks",
+        "description": "A regular at the club with cash to blow.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ivanka Mission",
+        "description": "A talent scout there to recruit for her new club.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 13,
+    "name": "Death & Taxes",
+    "description": "It’s Tax Day at R&H Cube- their biggest day of the year! In the town of Skirmish, PA, folks aren’t too trusting of the digital age, so R&H Cube, a paper-based tax accounting firm, is packed with customers-with a line down the block! They’re the only paper-based option in town, so it’s all staff on deck. This includes Jimmy Halbert, Pom Steely, and Dwayne Flute- he’s the Assistant to the Regional Manager. Every Tax Day, R&H Cube throws a huge party to recognize the hard work of their team. This year is no different, and Fiona Vee from Accounting has used every bit of the budget (and then some) to ensure this night goes out with a bang! Unfortunately, it seems that Fiona herself was the one to go out with a bang. Who killed Fiona in the conference room, and why? Did Fiona push one of the party planning committee members too far? Did she eat someone else’s lunch one too many times? Was she a spy, sent here by corporate? There’s only one way to find out the answers to these questions- play “Death & Taxes” from Broadway Murder Mysteries! Appropriate for ages 13+ This game takes 1-2 hours to play depending on your group size.",
+    "link": "https://www.broadwaymurdermysteries.com/products/death-taxes?variant=42980044144869",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/983678_AprilGameGraphics_3_022321_1_c2bc8537-4ce0-45ed-b3a5-1c6c766c6d32_1024x1024.png?v=1677088595",
+    "characters": [
+        {
+        "name": " Mike Scarman",
+        "description": "A secret agent and international man of mystery.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Jimmy Halbert",
+        "description": "A business development executive with a snarky attitude.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Pom Steely",
+        "description": "The receptionist in the office. She's funny and sarcastic.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sandy Bernardo",
+        "description": "A business development executive. A little over-the-top goofy.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Tobin Henderson",
+        "description": "The head of Human Resources. No one likes them.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Speed Pratton",
+        "description": "Who knows?",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Brian Loward",
+        "description": "The office intern.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Angel Martina",
+        "description": "An accountant. Quiet, a bit of a loner- loves cats!",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Keb Stallone",
+        "description": "An accountant. Known for being not the sharpest tool in the shed.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Boxer Martin",
+        "description": "An accountant. Known for their matter-of-fact attitude.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Darry Philly",
+        "description": "A maintenance worker from downstairs.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Janet Levi",
+        "description": "The District Vice President and Mike Charmin's boss.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Turbo Tact",
+        "description": "The party caterer.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Bobby Vee",
+        "description": "Fiona's husband. Works at an appliance store.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Molly Tracks",
+        "description": "In charge of administrative tasks in the office, a transfer.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Teb Flute",
+        "description": "Dwayne Flute's 2nd cousin. Doesn't say much.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Bob Colorado",
+        "description": "The wild and eccentric CEO of R&H Cube.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Benni Franklin",
+        "description": "On the Skirmish, PA town council.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Cly N. Tell",
+        "description": "A new client.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Keely Kamper",
+        "description": "A customer service rep. Known for being self-centered.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 14,
+    "name": "Murder At The Debutante Ball",
+    "description": "The 187th Annual High Society Debutante Ball is destined to be a night for Charleston’s finest to remember. That is, until high society sweetheart Clara Lodesacash keels over mid-curtsey, in front of all her friends and frenemies. Who could have ended such a promising young woman’s life so brutally (and publicly)? Was it her oddball older sister, Patricia “Petty” Lodesacash, driven wild by jealousy? Or was it her rival belle of the ball, Quinn Quick? Was it notable southern playboy Shep Sheppard, or one of the Whitehead twins? Dust off your tuxedo jacket, pour yourself a mint julep, and get ready to come out to society in MURDER AT THE DEBUTANTE BALL. Appropriate for ages 16+!",
+    "link": "https://www.broadwaymurdermysteries.com/products/murder-at-the-debutante-ball?variant=42979989881061",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/969738_MarchGameGraphics_v2_3_021721_1_013318cf-c1d1-41bd-8987-595446123710_1024x1024.png?v=1677088567",
+    "characters": [
+        {
+        "name": " Candace 'Candy' Lodesacash",
+        "description": "The Queen Bee of Charleston South Carolina social scene. Mother to Clara.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Paw Treearky",
+        "description": "Chairman of the 187th Annual High Society Debutante Ball",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "G. Richard Quick aka Dick Quick",
+        "description": "A rival patriarch to the Lodesacash family.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Bertram 'Balls' Backhander",
+        "description": "Charleston's most sought after Tennis Instructor",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Bender Beanpole",
+        "description": "Cindy Rello's escort at the Ball.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Shep Sheppard",
+        "description": "One of Charleston's most eligble bachelors, and a rival to Whitley Whitehead.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Quinlan 'Quinn' Quick",
+        "description": "A Debutante rival to Clara Lodesacash",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Queenie Quick",
+        "description": "A proud Southern Belle, mother to Quinlan and Wife to Dick Quick",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Lacy Girdles",
+        "description": "Charleston's leading Debutante Ball / Wedding Gown designer.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Cindy Rello",
+        "description": "A breakout star at the Debutante Ball.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Wendy Wiggybottom",
+        "description": "Charleston's pre-eminent hairstylist.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Clarence Lodesacash",
+        "description": "The proud father of Clara, Patricia, and Connor Lodesacash.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Florentine del Buds",
+        "description": "Charleston's most sought-after florist.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "May Treearky",
+        "description": "Chairwoman of the 187th Annual High Society Debutante Ball",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Maestro Toots Mambo",
+        "description": "The band leader for the event",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Whitney Whitehead",
+        "description": "One of Charleston's most eligible bachelors. Whitley's twin brother.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Connor Lodesacash",
+        "description": "Clara's escort for the evening. Trying to score with Quinn Quick tonight.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Patricia 'Petty' Lodesacash",
+        "description": "Clara Lodesacash's older sister.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Whitley Whitehead",
+        "description": "One of Charleston's most eligible bachelors. Whitney's twin brother.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Debby Drayton",
+        "description": "An uber Debutante.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 15,
+    "name": "Green With Envy: Killed At The St. Patrick’s Day Bash",
+    "description": "It’s Saint Patrick’s Day at the Good Times Pub, and there’s a big crowd. But there’s always a big crowd for the Pub Quiz night, which just happens to fall on March 17th this year. Three championship teams are playing tonight. The usual announcer, Mello Tones, is emceeing, joined by tonight’s special guest host, the strangely elfin Potto Golde. The pub owner, Undine Thumb, is trying to keep the crowd happy with free green beads to wear and cheap green beer to guzzle, but there’s a strange undercurrent beneath the wild shenanigans. Suddenly there is a scream. One of the barmaids has found the body of Undine Thumb in the back hallway, crushed by kegs of green beer. It was murder! Whodunit? An oppressed employee, a sore pub quiz loser, a mysterious stranger… or was it—YOU? Appropriate for ages 16+! This game takes 1-2 hours to play depending on your group size.",
+    "link": "https://www.broadwaymurdermysteries.com/products/green-with-envy-killed-at-the-st-patrick-s-day-bash",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/969738_MarchGameGraphics_2_021621_1_762b6b40-184b-46a1-9091-96d9e21265a1_1024x1024.png?v=1677088572",
+    "characters": [
+        {
+        "name": " Stirren Mixx",
+        "description": "Bartender, wannabe chemist, loves to make exotic drinks",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Gail Carriere",
+        "description": "Barmaid, new to the pub, flirtatious with customers",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sophie Sudds",
+        "description": "Barmaid with a mysterious past, smacks any drinker who gets fresh",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Mello Tones",
+        "description": "Pub Quiz Regular Host, smooth, pretends all is well",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Potto Golde",
+        "description": "Pub Quiz Guest Host, strangely spry and elfin",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Meade Runck",
+        "description": "Pub regular, serious drinker",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Yellen Roote",
+        "description": "Pub regular, loves to cheer on the quiz teams",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Leafy Malone",
+        "description": "Pub regular, hates the holiday fuss",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Juan Formee",
+        "description": "Pub regular, dieter trying to resist temptation",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Anita Mapp",
+        "description": "Lost tourist, eager to try new things",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Justin Towne",
+        "description": "Out-of-town businessman, looks down on everything in this city",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Senta O’Tention",
+        "description": "Bride-to-be, bossy, captain of the Bachelorettes team",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Azya Commande",
+        "description": "Maid of honor, yes-woman, Bachelorettes team",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Missy Trust",
+        "description": "Bridesmaid, having a fling with groom-to-be, Bachelorettes team",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sirius Player",
+        "description": "Hardcore video gamer, captain of the Overgrown Boys team",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Biff Fratgrad",
+        "description": "Acts like a teenager, parties hard, Overgrown Boys team",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Gimmy DeBall",
+        "description": "High school football coach, driven to win, Overgrown Boys team",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Noell Itall",
+        "description": "Screams out the answers, captain of the Trivia Maniacs team",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Cody Tales",
+        "description": "Accountant, dry and precise, Trivia Maniacs team, uses a cane to walk.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Dotten D. Ice",
+        "description": "Writes EVERYTHING down, Trivia Maniacs team",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 16,
+    "name": "Murder On Madison",
+    "description": "In a shocking turn of events, Real Estate tycoon Richard Renthiker was discovered dead in his Park Avenue penthouse early this morning. The cause of death appears to be suffocation by pizza slice. That's right - pizza slice. Old man Renthiker was found with his mouth stuffed full of pepperoni with extra cheese. Somebody must have had a real bone to pick with Renthiker, as this gruesome strangulation is not for the faint of heart, nor the lactose intolerant. Richard Renthiker was well respected in this town, but he also had a lot of enemies. Somebody's lease on freedom is about to expire - could it have been Cal Zone, Moody Fooliani, Robin Banks, or even YOU?? Appropriate for ages 16+! This game takes 1-2 hours to play depending on group size.",
+    "link": "https://www.broadwaymurdermysteries.com/products/murder-on-madison?variant=42980064657637",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/Murder_on_Madison_1_25152f45-bf70-4e42-b9e4-508ef6c692b8_1024x1024.png?v=1677088600",
+    "characters": [
+        {
+        "name": " Cal Zone",
+        "description": "Local Pizzeria owner",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Richie Renthiker Jr.",
+        "description": "Heir to the Renthiker fortune, Riki's twin",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Riki Renthiker",
+        "description": "Heiress to the Renthiker fortune, Richie’s twin",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Gemma Renthiker-Galawinowitz",
+        "description": "Wife of Rich Renthiker",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Tina Tidier",
+        "description": "Rich Renthiker's maid",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Moody Fooliani",
+        "description": "NYC Mayoral Candidate and close personal friend/attorney of Renthiker Corp.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Robin Banks",
+        "description": "Rich Renthiker's Investment Banker",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Phineas 'Poppy' Seederman",
+        "description": "Local Bagel shop owner",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Dore Mann",
+        "description": "Rich Renthiker's doorman",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Tori Takesatrip",
+        "description": "A tourist from out of town visiting NYC",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Shel Showmeister",
+        "description": "A Broadway producer and business associate of Rich Renthiker",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Lizzie 'Legs' Long",
+        "description": "An aspiring Broadway showgirl",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Barry Tender",
+        "description": "Local bar owner",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Andy Chants",
+        "description": "Local political organizer and activist",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Bettina Barker",
+        "description": "Rich Renthiker's dog walker",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Bobbi Bikelane",
+        "description": "A local food delivery person",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sammi Tation",
+        "description": "A garbage man",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Katie Keepsadate",
+        "description": "Rich Renthiker's assistant",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Kosciuszko",
+        "description": "Rich Renthiker's dog",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Murphy Bedman",
+        "description": "Richard Renthiker's tenant",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 17,
+    "name": "Grilled To Death",
+    "description": "Tragedy has struck the Homeowner’s Association of Muttonchops. Their beloved local butcher, Fattie Chops, has been found chopped up and frozen solid in his very own meat locker. This gruesome act of violence falls on the eve of the 45th annual Sweet Sweet Meat competition, a yearly tradition that celebrates the neighborhood's shared passion for meat consumption... Rumors are starting to swirl around the cul-de-sac. What secrets did Fattie have behind closed refrigerator doors? Who had an axe to grind with him? Does his wife, Corny Chops, know who could’ve possibly committed this outrageous act? Could YOU have done it?! Appropriate for ages 16+! This game takes 1-2 hours to play depending on group size.",
+    "link": "https://www.broadwaymurdermysteries.com/products/grilled-to-death?variant=42980050665701",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/983689_MayGameGraphics_1_031021_1_808a202a-e152-47bd-8966-679bec6317a6_1024x1024.png?v=1677088557",
+    "characters": [
+        {
+        "name": " Corinthia 'Corny' Chops",
+        "description": "You're the star cook in the family. You resented how much local notoriety Fattie received for his grilling acumen.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Smoky Robinswood",
+        "description": "Defending Sweet Sweet Meat champion.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Bob 'Dad' Bod",
+        "description": "Amateur grill master & commissioner of local fantasy football league.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Billy The Grills",
+        "description": "Local homeless, toothless hillbilly.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Buff Fey",
+        "description": "Fattie Chops’ personal trainer.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "BeeBee Beefs",
+        "description": "Fattie Chops biggest customer/admirer.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Porky Chops",
+        "description": "Fattie Chops’ long lost child",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Beau Vine",
+        "description": "Local cattle supplier.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Marin Nades",
+        "description": "French Chef.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Mac Donald",
+        "description": "Owner of local cheese shop.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Nancy Needles",
+        "description": "Queen of the local HOA.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Hunter Shots",
+        "description": "Pro-Gun activist.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Wanda 'Wet' Ribbib",
+        "description": "Duke's wife. You co-host and co-sponsor the Sweet Sweet Meat competition every year.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Moo Moo",
+        "description": "A cow.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Clucky Cutlet",
+        "description": "Local chicken farmer.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Hottie Dogs",
+        "description": "Grill Master / Hand Model",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Vee Ganz",
+        "description": "Animal rights activist.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Cookie Cookstone",
+        "description": "Self- proclaimed best cook in Muttonchops.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Patty Flipstick",
+        "description": "Miss Teen Muttonchops.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Duke “Dry” Ribbib",
+        "description": "Wanda's husband. You co-host and co-sponsor the Sweet Sweet Meat competition every year.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 18,
+    "name": "A Valentine Murder Cruise",
+    "description": "Everything is going wrong on the “Valentine in Venice” harbor cruise aboard the Love Bucket. First, the water is unusually choppy so people are feeling queasy. Second, the package deal, priced at $9.99 per couple, went viral as “The Cheapest Date Ever,” stirring up worldwide ridicule. Accordingly, most of the guests canceled their reservations and found other, less embarrassing dates, leaving the dining room more than half empty. And, to top things off, a diner took a nosedive into his soup, just after the first set of sappy Italian love songs. The dead man was Payton Bookem, the slick agent for tonight’s dollar-store “operatic” entertainers. Who killed him? It wasn’t the chef, since no one else has anything worse than indigestion. Was it one of Payton’s clients, the shrill and bombastic soprano and tenor? Was it his ex-girlfriend, who just happened to show up with her new arm candy? Was it a member of one of the few couples that braved the sea sickening, cut-rate evening? It could even have been—YOU! Appropriate for ages 16+! This game takes 1-2 hours to play depending on your group size.",
+    "link": "https://www.broadwaymurdermysteries.com/products/a-valentine-murder-cruise?variant=43874406793445",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/AVAILABLEFORALIMITED-TIME_968830be-7241-497b-a83b-1dd8106e64ab_1024x1024.jpg?v=1677088549",
+    "characters": [
+        {
+        "name": " Amatole Duso",
+        "description": "Diner, Part of an arguing couple; cheap date. Casually dressed.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Spike A. Rose",
+        "description": "Server dressed as Cupid, a part-time construction worker",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Calla Ratura",
+        "description": "Temperamental soprano, dressed in an elaborate gown",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ivana Newman",
+        "description": "Diner, Victim’s ex with a new Valentine date. Half of a glamorous couple.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Hiram O. Russ",
+        "description": "Diner, Half of a lovey-dovey couple. He works for a toy company. Adorned with Valentine’s accessories.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Gimmy Roome",
+        "description": "Diner, Part of a mismatched couple with varying goals. She is dressed for yachting.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Waye Rye",
+        "description": "Diner, Part of a longtime married couple, suspicious of each other. Dressed well but not expensively.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Flipper Plaites",
+        "description": "Restaurant manager, harassed",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Avery Keyes",
+        "description": "Pretentious pianist, not as good as he thinks. Ideally in a tux.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Lehigh Knote",
+        "description": "Flamboyant tenor, with a red flower and flashy walking stick",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Morty Fide",
+        "description": "Diner, The new Valentine date of the Victim’s ex. Half of a glamorous couple.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Lone Leyhart",
+        "description": "Diner, Part of an awkward couple; first date. Dressed up, but not well enough for a Valentine date.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Omar Dent",
+        "description": "Diner, Part of a mismatched couple with varying goals. He is dressed for a romantic date.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Lee Rye",
+        "description": "Diner, Part of a longtime married couple, suspicious of each other. Dressed well but not expensively.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Oso Lemio",
+        "description": "Server dressed as a gondolier, part-time sailor",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Paige Turner",
+        "description": "Piano player’s date, peeved about working on Valentine’s",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Eli Malone",
+        "description": "Diner, jilted by his Valentine’s date",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Tootsie Footsy",
+        "description": "Diner, Half of a lovey-dovey couple. She works at a brewery. Adorned with Valentine’s accessories",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Quirrell Somme",
+        "description": "Diner, Part of an arguing couple; cheap date. Casually dressed.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Tinny Derrlove",
+        "description": "Diner, Part of an awkward couple; first date. Dressed up, but not well enough for a Valentine date.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 19,
+    "name": "The Mystery Of The Missing Golden Egg",
+    "description": "Every year in the secret realm of Bunnyville, magical creatures from around the world gather for their annual summit. This is supposed to be a time to reconnect with old and new friends, but this year someone (or some creature!) has stolen the Easter Bunny’s magical golden egg! Kids and adults can both enjoy this enchanted game featuring creatures like fairies, dragons, mermaids, and of course the Easter Bunny! Who might have taken the magical golden egg- and why?! Was it the Easter Bunny's jealous and aspirational younger sibling, Hop P. Bunny? Could one of the summit attendees be hiding something, like a desperate desire for MORE magic? Maybe someone thought that the gold could be turned around for some quick cash? There’s only one way to find out who did it- play THE MYSTERY OF THE MISSING GOLDEN EGG! Appropriate for ages 10+! This game takes 1-2 hours to play depending on your group size.",
+    "link": "https://www.broadwaymurdermysteries.com/products/the-mystery-of-the-missing-golden-egg?variant=42980068819173",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/The_Mystery_of_the_Missing_Golden_Egg_1_566a3173-02da-4596-9e95-781153412caf_1024x1024.png?v=1677088565",
+    "characters": [
+        {
+        "name": "Hip T. Bunny",
+        "description": "The Easter Bunny, guardian of the Magical Golden Egg",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Hop P. Bunny",
+        "description": "Sibling of the Easter Bunny, with aspirations",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Santa Claus",
+        "description": "Keeper of the Naughty and Nice list, cookie lover",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Latimer Sparkles",
+        "description": "Elf on the Shelf, popular",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Giselle DuPree",
+        "description": "The Tooth Fairy",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Larry Anderson",
+        "description": "Bigfoot",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Cupid",
+        "description": "Magical matchmaker",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Porter Gold",
+        "description": "A Leprechaun",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Illusion",
+        "description": "A Unicorn",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Norm L. Guy",
+        "description": "A regular, non-magical guy",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Flames",
+        "description": "A fire breathing Dragon",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Fauna Flora",
+        "description": "A forest-dwelling fairy",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Gilon Dusk",
+        "description": "A multibillionaire and entrepreneur",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Howell Moon",
+        "description": "A recently-turned werewolf",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Mo Wraps",
+        "description": "An ancient mummy",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sidney Horsema",
+        "description": "A centaur (Half human/half horse)",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Puss in Boots",
+        "description": "A magical talking cat.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Alora Fintail",
+        "description": "A beautiful mermaid.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Mr. Sandman",
+        "description": "Sprinkles sleeping sand in your eyes",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Groundhog Phil",
+        "description": "A magical groundhog",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 20,
+    "name": "Terror In Tinsletown",
+    "description": "It’s 1928, and the birth of the talking picture has turned Hollywood on its ear.  That is until famed silent movie star Sly Mandrake turns up dead on the set of his latest picture THE SINGING SHEIK.  What seems to be a tragic accident now looks more and more like a Hollywood hit job.  Who could have bumped off this heartthrob of the silver screen? Could it have been controlling director Burly Bellows, frustrated with Mandrake’s lack of elocution?  Or was it his vengeful scene-stealing scene partner, emerging starlet Nettie Potts?  Was it famed LA mobster Hoochie Coodilinni, or could it have been Mandrake’s scorned lover Zelda Pinchbottom? Pour yourself a glass of giggle water and do the Bunny Hug in this legendary Jazz Age whodunit, TERROR IN TINSELTOWN.",
+    "link": "https://www.broadwaymurdermysteries.com/products/terror-in-tinsletown?variant=42980013441253",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/Tinseltown_logo_1_17ef62a7-d590-4e8e-a925-6cbf4106f732_1024x1024.png?v=1677088540",
+    "characters": [
+        {
+        "name": "Alfredo Fettucini (Tailor)",
+        "description": "A chic Hollywood menswear designer. Dressed in a handsome suit.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Burly Bellows (Director)",
+        "description": "A large-and-in-charge type with a big stomach and mustache.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Buzzby Bourbon (Screen Writer)",
+        "description": "Dressed in slacks and a button-down t-shirt. Wears glasses",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Dick T. Torryall (Studio Mogul)",
+        "description": "Very well dressed in a light suit and bowtie.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Dottie Dash (Police Officer)",
+        "description": "Dressed as a police officer.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ella Quinte (Elocution Coach)",
+        "description": "Dressed in a 1920s style dress and pearls.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Fannie the Flapper (Prostitute)",
+        "description": "Wears a revealing flapper dress and 1920s hairstyle.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Harold 'Hardy' Heeren (Film Critic)",
+        "description": "Wears a black button-down shirt and black pants. Wears a monocle.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Hedda Hopper (Opium dealer )",
+        "description": "She wears a large flowing dress with bright colors.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Hoochie Coodilinni (LA Mobster)",
+        "description": "Wears a sport coat and black pants with a button-down shirt. Heaps of chest hair showing.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Morse Coades (Police Officer)",
+        "description": "Dressed as a police officer.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Nettie Potts (Co-Star)",
+        "description": "She wears a beautiful 1920s style dress and stylish hat.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Patty Powders (Make Up Artist)",
+        "description": "She wears a skirt just below the knee and a flowing white blouse. She wears lots of make-up.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ritzi Cracca (Nutritionist)",
+        "description": "She wears flowing pants and a white shirt that's tucked in.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sal Peppers (Driver/Valet)",
+        "description": "He's dressed as a valet driver in a suit and hat.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sid Flicker (Camera guy/Soundman)",
+        "description": "He's dressed casually in pants and a t-shirt.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Tanner Parsante (Agent)",
+        "description": "Dressed in a 1920s suit and hat.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Tristan LaMante (Competing Actor)",
+        "description": "Dressed in 1920s style suit and hat.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Victor Trolla (Sound Inventor)",
+        "description": "Dressed in an eccentric outfit that feels thrown together haphazardly.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Zelda Pinchbottom (Novelist)",
+        "description": "She wears a lovely and tasteful dress. She feels beautiful yet conservative in her style.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 21,
+    "name": "Murder At The Wet N’ Wild Animal Sanctuary",
+    "description": "At The Wet N’ Wild Animal Sanctuary & Water Park in Babylon, Alabama, you can find fun for the whole family: pose for a photo with a tiger, feed a ravenous lion with bargain bin chicken, or watch the star attraction - the animal show featuring local starlet and amateur zoologist Savannah Summers – that is, until her body tragically washes up in the Big Cat Watering Hole. Who could be responsible for ending her life so soon?  Could it be Wet N’ Wild’s charismatic founder and borderline cult leader Dr. Leo Jungles?  Or park financier and oil magnate Tex Loophole?  What about the animal rights activist and founder of the Big Cat preserve, Carolina Pesky? There’s only one way to find out: play Murder at the Wet N’ Wild Animal Sanctuary! But hold onto your kittens 'cuz the killer could be YOU!",
+    "link": "https://www.broadwaymurdermysteries.com/products/murder-at-the-wet-n-wild-animal-sanctuary?variant=42979993157861",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/wet_n_wild_logo_1_753caa6c-658c-4b8c-a204-6e7210814d2d_1024x1024.png?v=1677088559",
+    "characters": [
+        {
+        "name": "Dr. Leo Jungles",
+        "description": "Charismatic owner of the Wet N’ Wild Animal Sanctuary & Water Park who’s running for President.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Tex Loophole",
+        "description": "Billionaire oil tycoon and investor in the Wet N’ Wild Animal Sanctuary & Water Park.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Kiki Chains",
+        "description": "Cashier at Wet N’ Wild Animal Sanctuary & Water Park.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sonny Burnts",
+        "description": "Security Guard at Wet N’ Wild Animal Sanctuary & Water Park.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sandy Summers",
+        "description": "The victim's mother and former pageant queen.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Claude Pawe",
+        "description": "An amateur zooligist at Wet N’ Wild Animal Sanctuary & Water Park.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Carolina Pesky",
+        "description": "An animal conservationist and owner of the rival Big Cat Preserve.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Peter Pesky",
+        "description": "Married to Carolina Pesky and loves animals.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Fang",
+        "description": "A big cat smuggler and “fixer.”",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Mme. Phoebe Cougar",
+        "description": "Dr. Jungles eccentric and vengeful first wife.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Trey Cubs",
+        "description": "A caricaturist and breeder at the Wet N’ Wild Animal Sanctuary & Water Park.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Missy Whiskers",
+        "description": "Dr. Jungle's mail order bride.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Harry Manes",
+        "description": "Dr. Jungle’s campaign manager for President.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Hou Lou",
+        "description": "A reality TV show producer who’s been collecting footage of the Wet N’ Wild Animal Sanctuary & Water Park.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Peggy Lostalim",
+        "description": "An animal trainer in the Animal Show who tragically lost an arm to a tiger.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Whitley Snitches",
+        "description": "The caretaker of the Reptile Lagoon at the Wet N’ Wild Animal Sanctuary & Water Park.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Peaches",
+        "description": "A superstar lion who lives at the park.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Kitkat",
+        "description": "A tiger that lives at the park.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Diggie Palms",
+        "description": "The groundskeeper at the Wet N’ Wild Animal Sanctuary & Water Park.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 22,
+    "name": "Murder At The Renaissance Faire",
+    "description": "Gentle lords and ladies, the jousting at Ye Olde Renaissance Faire isn’t meant to be “to the death”—so why doth the Green Knight have a broken jousting lance buried in his chest? Forsooth, who hath sneaked into his tent, before he got into his trusty armor, and killed him dead? Was it one of his rival knights, in quest of a competitive advantage? Was it one of the Faire’s costumed workers, seeking revenge? Was it one of the thousand fairgoers, in search of a backstage thrill? Or mayhap the foul deed was done by—THEE!",
+    "link": "https://www.broadwaymurdermysteries.com/products/murder-at-the-renaissance-faire?variant=42980082090213",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/renaissance_fair_murder_mystery_game_1_fb56b2f7-640c-4e20-ae4d-115db4519631_1024x1024.png?v=1677088542",
+    "characters": [
+        {
+        "name": "QUEEN OF BEAUTY (F)",
+        "description": "Diva, acts like a queen at all times",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "LORD OVAIR (M)",
+        "description": "Chancellor, overdoes the medieval act",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "LADY OTTA MYWAY (F)",
+        "description": "Queen’s attendant and jealous understudy",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "LADY KITSY UPP (F)",
+        "description": "Queen’s attendant and yes-woman",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "RUDD YGOR (M)",
+        "description": "Red Knight, hot-tempered",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "“SCAR” LETTME (N)",
+        "description": "Red Squire, never talks about where the scar came from",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "SKY INDIGO (M)",
+        "description": "Blue Knight, cool and merciless",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "NAVY KNAVE (N)",
+        "description": "Blue Squire, eager but not too bright",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "TARA CARDS (F)",
+        "description": "Fortuneteller, overly dramatic",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "RAISA GLASS (F)",
+        "description": "Serving Wench, flirtatious but takes no nonsense",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "RYAN VILLE (M)",
+        "description": "Burly blacksmith, wants to be a knight",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "TURK E. LEGG (N)",
+        "description": "Food Vendor, talks constantly about food",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "TAYE LONN (M)",
+        "description": "Falconer, strangely bird-like",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "PULLAMINE PINT (N)",
+        "description": "Ale seller, loves to gossip",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "FESTE ZESTY (N)",
+        "description": "Court Jester, Wacky practical joker",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "DOCTOR LEECH (N)",
+        "description": "Barber-Bloodletter, can’t keep a secret",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "GABRIEL BLOWER (N)",
+        "description": "Trumpeter, only shuts up to play",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "FLIP PINNS (N)",
+        "description": "Juggler, often tries tricks that go wrong",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "NAUGHTON NITE (M)",
+        "description": "Obsessed Spectator, awed by everything",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "MIDDY EVAL (F)",
+        "description": "Obsessed Spectator, wants to be part of the show",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 23,
+    "name": "Mardi Gras Gone Wrong",
+    "description": "Several new residents of New Orleans—including YOU—are gathered in an apartment to watch a Carnival parade. Someone invited M’sieur Geezaire, an old-timer who claims to know everything about Mardi Gras traditions. That’s too bad, because Geezaire won’t shut up. His nonstop droning is boring everyone to tears. Then he launches into a new story, all about a humiliating, embarrassing event among last year’s tourists. Luckily, the first float approaches with its booming zydeco music and the host dims the lights. In the darkness, there is a lot of shuffling around… a strange gurgling sound… and a thud. When the lights come back on, M’sieur Geezaire is lying dead on the floor, strangled with his own Mardi Gras beads. Whodunit? Clearly, someone in the room didn’t want that embarrassing story finished. Could it have been—YOU?",
+    "link": "https://www.broadwaymurdermysteries.com/products/mardi-gras-gone-wrong?variant=42980086513893",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/1293707_MardiGrasGoneWrongMainGraphic_v1_A_020322_1_9df3b635-df51-4dc3-95fd-cefce5358a0d_1024x1024.png?v=1677088538",
+    "characters": [
+        {
+        "name": "B. D. CAREWE",
+        "description": "Party host. Celebrates Mardi Gras to extremes. Passes out beads to everyone.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "BANAS FOSTER",
+        "description": "Flamingly flamboyant, can’t stand party poopers.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "BAYNE YAYE",
+        "description": "Runs a bakery. Sweet, airheaded, believes everything people say.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "BOBO GUMM",
+        "description": "Clingy, always needs a hug. Chews—no, smacks—gum at all times.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "BURR BONNE",
+        "description": "Smooth talker. A liquor connoisseur. Furtively sips from a flask.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "CAPT. CRAW FISHER",
+        "description": "Runs a dinner cruise business. Lives on their boat, talks about it nonstop.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "CY DECKO",
+        "description": "Raucous, loves loud parties. Tries to get people dancing.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "DuCREE OLEO",
+        "description": "Thick French accent, gestures wildly. Greasy and conceited.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "HAMPO BOYD",
+        "description": "Restaurant critic, has loud opinions on every bar, restaurant and sandwich joint.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "HURRAH KANE",
+        "description": "Packs a punch. Always eager to start a fight.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "INDEBYE YEW",
+        "description": "Leads backcountry tours. Obviously a “Duck Dynasty” fan.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "JAMIE BALAYAH",
+        "description": "Mixed-up and confused by life. Always getting into jams.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "JAS BEATTY",
+        "description": "Wannabe musician, hoping to join a band. Sways to their own inner drummer.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "JULE EPPS",
+        "description": "Obsessed with having fresh breath. Pushes mints on others.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "KERR KNEEVAL",
+        "description": "Likes to dress up and play tricks on people. Runs a “gag gift” store.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "LEPRAY LEAN",
+        "description": "Fake-sweet to people’s faces, then stabs them in the back.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "MUFFUL LETTUCE",
+        "description": "Always trying to persuade people to go vegan. Offers salad dressing to everyone.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "O. K. DJUNN",
+        "description": "Pretends to be a New Orleans native, but often gets facts wrong. Loves their Mommy.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "SHRIMPY TOOFAY",
+        "description": "On the short side. Seafood lover. Always hungry, wants everything for themselves.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "TAY BASKO",
+        "description": "Hot tempered chef, has opened several unsuccessful restaurants.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 24,
+    "name": "Stupid Cupid: Love Bites",
+    "description": "It's February 14 and time for a Vampire/Human Anti-Valentine’s Day Stupid Cupid Singles Mixer... Could they have thought of a shorter name? The idea for the event came from a vampiric philanthropist who claims to want nothing more than to see vampires and humans get together for a quick bite and a special night. Who needs a lovey-dovey romantic evening? This is a dating event set up to match Vampires with Humans, the first of it's kind. For those who think Valentine's Day sucks, this event promised unforgettable no-strings-attached excitement, but no one could have foretold a death! At the height of the party, someone screamed and stepped back to reveal the crumpled body of the host, LeBrat de Tigercub, one of the wealthiest and most powerful vampires in all of New England. Who is responsible for slaying this bloodsucker? Was it someone who LeBrat repeatedly refused to turn into a vampire? Was it the Spencer twins, bent on revenge? Or, was it Martino de Sanguino, head of a well-to-do and powerful coven, seeking to expand his domain? The stakes are high in Stupid Cupid: Love Bites, so watch out! The killer may even be you!",
+    "link": "https://www.broadwaymurdermysteries.com/products/stupid-cupid-love-bites?variant=42980076224741",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/Untitleddesign_d58e66d4-0b68-430f-8a91-7982483fd885_1024x1024.jpg?v=1677088570",
+    "characters": [
+        {
+        "name": "Ella Gosling",
+        "description": "A human looking for love- her ex was a vamp... but now he's dead!",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Puffy Winters",
+        "description": "College student, here to meet her match. Has a secret",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Joseph Brown",
+        "description": "College student with big dreams- and questionable choice making skills.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Addison Spencer",
+        "description": "Over 100 years old, but looks 25. This vampire has been around and is here to settle a score.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ashley Spencer",
+        "description": "Dear sibling of Addison Spencer. They go everywhere together. Sully LaceLeBrat de Tigercub’s special companion.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Hudson Carter",
+        "description": "Vamp-Rock star, here tonight looking for love!",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Leslie Woolworm",
+        "description": "Backswamp vamp who has brought her two pet alligators to the event.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Thomas 'Tom' Williams IV",
+        "description": "A vampire turned as a young man during the American Civil War. His low southern drawl is like honey.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Cookie Shortstack",
+        "description": "A waitress from a small town in Louisiana. A normal girl with a vampiric past.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Martino de Sanguino",
+        "description": "An Italian vampire and the founding member of the Bulgogi, an ancient vampire clan.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Cole M. Balmer",
+        "description": "A Funeral Director, curious about how a love affair between a human and a vampire could work.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "The Duchess, aka Margaret",
+        "description": "The most beautiful and alluring vampire in all of New England. Skilled at hypnotism.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ophelia Pulse",
+        "description": "A night nurse here to find a boyfriend who can be with her on HER schedule: sleep during the day, stay up all night.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Harris Alexander",
+        "description": "A college student and friend of Puffy Winters, though he would like to be more.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Paolo",
+        "description": "The loyal servant of Count Constatin and his daughter, Baroness Dahlia.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Constantin, Count of Pennsylvania",
+        "description": "Ruler of all Pennsylvania vampires, though he's originally from Romania. He moved to the New World with his daughter, Dahlia, just before the American Revolution.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Dahlia, Baroness of Pennsylvania",
+        "description": "Named after one of the most beautiful flowers known to man, she is known for her elaborate topiaries, which, while magnificent, are often criticized by her neighbors for being too vulgar.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Vinny Brice",
+        "description": "Waitstaff for this Vampire/Human Anti-Valentine’s Day Stupid Cupid Singles Mixer.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ivana B. Undedd",
+        "description": "The caterer for LeBrat's event. She is usually gone before the guests arrive, but she had to return to the event because she left her purse behind.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 25,
+    "name": "Lethal Listing: Murder At The Broker's Open",
+    "description": "Reality stars, luxury estates, and MURDER??? In the hills of 90210?! The cameras were ready to roll on a “Reality & Bites” themed party at an over-the-top Broker’s Open, but something has gone terribly wrong! Avery Richman, the wealthy art broker who owns the sprawling estate, has been found in his office, strangled with his own expensive silk tie! Who needed Mr. Richman out of the frame? Was someone afraid that Avery might pull his lucrative listing off the market, thereby jeopardizing the sales commission? Did Mr. Richman know that one of the reality stars held a devastating secret- a secret worth killing over? Even influencer status won’t help you avoid suspicion at this “Lethal Listing…” especially if the killer is YOU!",
+    "link": "https://www.broadwaymurdermysteries.com/products/lethal-listing-murder-at-the-broker-s-open?variant=42980060463333",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/Untitled_design_4_copy_1_b96a9260-c830-438b-8516-e723b8253778_1024x1024.png?v=1677088531",
+    "characters": [
+        {
+        "name": "Goldie Digger",
+        "description": "Avery Richman's much, much younger new girlfriend.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Christy Quick",
+        "description": "The bad bitch villain from real estate group Toppenheim Team.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Chris Prichard",
+        "description": "Christy Quick's new husband, retired former high tech CEO and entrepeneur.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Feather Mae Long",
+        "description": "A real estate agent from the Toppenheim Team and co-star of the reality show.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Mason Toppenheim",
+        "description": "The standoffish, work-a-holic President of the Toppenheim Team.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Kitty Kardanion",
+        "description": "Famous for being famous but has turned that into a growing skincare company.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Kenny East",
+        "description": "A famous rapper and the husband of Kitty Kardanion.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Parker Maker (n)",
+        "description": "The excitable executive producer of 'Sunset Luxury Homes'.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Cam Person (n)",
+        "description": "Camera Operator for the reality show 'Sunset Luxury Homes'.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sage Sweeper (n)",
+        "description": "The quiet housekeeper.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Flip Ferrari (n)",
+        "description": "A property mogul.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sam Broker (n)",
+        "description": "A real estate agent from another brokerage.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Natalie Richman",
+        "description": "Avery Richman's third ex-wife and mother of Missy.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Gordy Ram",
+        "description": "A famous reality TV chef known for his attitude.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Jamie Carr (n)",
+        "description": "An Instagram influencer famous for makeup tutorials",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Missy Richman",
+        "description": "A very Richman's daughter. Spoiled and entitled.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Buddy Richman",
+        "description": "A very Richman's 18-year-old grandson and social media obsessed college student.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Garvey Bevin",
+        "description": "The notorious lead of gossip website DMZ, reporting on celebrity gossip.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Pat Emdown (n)",
+        "description": "A ery Richman's new neighbor.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Frankie Fresh (n)",
+        "description": "A famous, funky artist from the circle of artists that Avery Richman associated with.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 26,
+    "name": "Groomed For Murder",
+    "description": "The moment has arrived—the thousands of entrants at the prestigious Eastmunster Kennel Dog Show have been narrowed down to seven lucky canines. They and their handlers are nervously waiting for the Head Judge to arrive and determine which dog is the “Best in Show.” The Announcer introduces the Judge. She does not appear. The Announcer tries again. Silence. Suddenly, a minor official runs screaming into the ring. “Dead! She’s dead! Someone has killed Ada Glover!” In the ensuing chaos, the crowd is left to wonder whodunit. Was it one of the finalists, scared of how the Judge would assess their precious pooch? Was it someone who was passed over for a place in the finals? Was it one of the dog fanciers in the audience? Or was it—YOU?",
+    "link": "https://www.broadwaymurdermysteries.com/products/groomed-for-murder?variant=42980081533157",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/Groomed_for_Murder_logo_1_71479755-b479-4cc9-aeb7-1dd20423e3fa_1024x1024.jpg?v=1677088553",
+    "characters": [
+        {
+        "name": " Vilma Ranner (F)",
+        "description": "high-strung, showing a Weimaraner",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "C. Lee Hamm (N)",
+        "description": "stubborn, showing a Sealyham Terrier",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Bernardine Sainte (F)",
+        "description": "angry, showing a St. Bernard",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Doctor “Doc” Shownd (N)",
+        "description": "Veterinarian, showing a Dachshund",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Vaulton Hurdle (M)",
+        "description": "Trainer, showing a Mutt (Agility Contest)",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Laws Taggen (M)",
+        "description": "Eternal runner-up, showing a Chihuahua (2nd place, Toy Group)",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ima Champ (F)",
+        "description": "conceited, showed a Boxer (Last year’s Best in Show)",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "conceited, showed a Boxer (Last year’s Best in Show)",
+        "description": "Retired military, will show a German Shepherd next year Couples Sharing Competition Dogs",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Blake White (M) and Dale Mason (F)",
+        "description": "married, showing a Dalmatian",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Pip and Dap Oodell (both N)",
+        "description": "married, showing a Toy Poodle",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Colin (M) and Lassie Lee (F)",
+        "description": "father and grown-up daughter, showing a Collie People Without Competition Dogs",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "K. N. Ein (N)",
+        "description": "Assistant Judge. Ambitious.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Farley O. Blivious (M)",
+        "description": "Announcer. Great voice, not-so-great brain.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Lou Katme (N)",
+        "description": "Photographer. Young and needy.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ryatt Wrangler (M)",
+        "description": "Ring Steward. Loves dogs, hates owners.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Clippen Combe (N)",
+        "description": "Groomer. Wildly artistic.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Fanny Attic (F)",
+        "description": "Dog show groupie. Comes to the finals every year.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    },
+    {
+    "id": 27,
+    "name": "Camp Moss-Keto Mystery Of The Missing Trophy!",
+    "description": "Kids looking for an adventurous summer they’ll never forget have two choices inside the Great Swampland State Park: Camp Moss-Keto, nestled by still waters, and Camp Sue-Mack, situated among lush undergrowth. Each camp offers a wide variety of activities like competitive sports, arts, and wilderness exploration, culminating in the Great Swampland Olympics on the last day of summer. Whichever camp wins the most events takes home the coveted Calamine Trophy. But this year, someone has stolen the Trophy! Was it one the kids, playing tricks? Was it one of the camp employees, desperate for prestige? Was it an outsider, like the lost hiker who seems strangely knowledgeable about the camps? Or was it—YOU?",
+    "link": "https://www.broadwaymurdermysteries.com/products/camp-moss-keto-mystery-of-the-missing-trophy?variant=42980041228517",
+    "image": "https://cdn.shopify.com/s/files/1/0644/1441/7125/products/Camp_Moss-Keto_1_82f445da-343b-4ced-a37b-b53d01995f4c_1024x1024.png?v=1677088546",
+    "characters": [
+        {
+        "name": "Mousy Copter-Chover",
+        "description": "Camp Moss-Keto kid, timid, over-protected and mousy in demeanor.",
+        "costumeSuggestion": "BLA BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Clem Zee",
+        "description": "Camp Moss-Keto kid, awkward and always falling down or breaking things.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Chompin Popp",
+        "description": "Camp Moss-Keto kid, always chewing gum.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Raye Sirr",
+        "description": "Camp Moss-Keto kid, fast runner and talks so quickly you can hardly understand them!",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Scooby Doodah",
+        "description": "Camp Moss-Keto counselor, teenager and likes to play pranks on the campers.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Whitty Lee",
+        "description": "Camp Sue-Mack kid, camp comedian always cracking jokes.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Ali Soran",
+        "description": "Camp Sue-Mack kid, comes in second on everything and isn’t pleased about it.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Cravus Creen",
+        "description": "Camp Sue-Mack kid, lost without a cell phone.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sophie Sobad",
+        "description": "Camp Sue-Mack kid, pessimistic about everything and predicted the Olympics would be cancelled.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Mack Ketomoss",
+        "description": "Camp Moss-Keto owner, divorced from Sue Persalad who owns the rival camp.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Noell “No” Payne",
+        "description": "Camp Moss-Keto coach who likes pushing it to the limit.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Patch Emupp",
+        "description": "Camp Moss-Keto medic.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Al Umnus",
+        "description": "Camp Moss-Keto alumni and head of the Alumni Club.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Mo DeGrasse",
+        "description": "Groundskeeper for both camps with keys to everything, even the trophy case.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Sue Persalad",
+        "description": "Camp Sue-Mack owner, divorced from Mack Ketomoss, owner of the rival camp.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Justa Fewmore",
+        "description": "Camp Sue-Mack coach who pushes the campers to the edge.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Felipe Burgez",
+        "description": "Owns the food truck that sits between both camps.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Cantrita Mapp",
+        "description": "Lost hiker who has find herself on camp grounds that just so happen to be formerly owned by her family.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Wat Chover",
+        "description": "Overly-protective father of camper Mousy who would do anything for his little girl.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        },
+        {
+        "name": "Hellia Copter",
+        "description": "Overly-protective mother of camper Mousy who will stop at nothing to protect her daughter.",
+        "costumeSuggestion": "Basda BLA",
+        "player": {
+            "name" : "",
+            "email" : ""
+            }
+        }
+    ] 
+    }
+]
