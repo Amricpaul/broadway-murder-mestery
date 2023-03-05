@@ -28,8 +28,6 @@ app.use((req, res, next) => {
     next();
 });
 
-
-
 //mailing config
 const transporter = 
     nodemailer.createTransport({

@@ -1,7 +1,10 @@
 import mongoose from 'mongoose';
+import dotenv from 'dotenv';
+dotenv.config();
 
 mongoose.set("strictQuery", false);
-mongoose.connect('mongodb+srv://amric:ninja2023@clusterv1.p3b35bu.mongodb.net/broadwaymysteries', (err) => {
+
+mongoose.connect(process.env.MONGO_URI, (err) => {
    
         console.log("Connected to MongoDB");
 });
