@@ -11,6 +11,7 @@ import {verificationTemplate} from './MailTemplate/verification.js';
 import {emailTemplate} from './MailTemplate/email.js';
 
 
+console.log('process.env.EMAIL_ADDRESS: ', process.env.EMAIL_ADDRESS);
 
 const app = express();
 app.use(bodyParser.urlencoded({ extended: true }));
