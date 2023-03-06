@@ -346,7 +346,7 @@
           },
           sendVerificationPin(){
             //send verification pin to host email
-            fetch('http://localhost:3000/send/verification', {
+            fetch('https://lobster-app-y4owa.ondigitalocean.app/send/verification', {
               method: 'POST',
               headers: {
                 'Content-Type': 'application/json'
@@ -372,7 +372,7 @@
             let errors = await this.validateForm();
             if(!errors){
               //send form data to server
-                fetch('http://localhost:3000/send-email', {
+                fetch('https://lobster-app-y4owa.ondigitalocean.app/send-email', {
                   method: 'POST',
                   headers: {
                     'Content-Type': 'application/json'
