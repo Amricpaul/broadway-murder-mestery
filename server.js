@@ -5,7 +5,7 @@ import crypto from 'crypto';
 import env from 'dotenv';
 env.config();
 
-import {verficationModel} from './database.js';
+import {verficationModel, gamesModel} from './database.js';
 import {emailSchema, verficationSchema} from './validator.js';
 import {verificationTemplate} from './MailTemplate/verification.js';
 import {emailTemplate} from './MailTemplate/email.js';
@@ -37,7 +37,14 @@ const transporter =
         user : process.env.EMAIL_ADDRESS,
         pass : process.env.EMAIL_PASS,
     }
-    });
+});
+
+
+//get game list from mongodb
+app.get('/games', async (req, res) => {
+    const games = await gamesModel.find();
+    res.status(200).json({success: true, games: games});
+});
 
 
 
@@ -105,7 +112,7 @@ async function verifyPin (email, pin){
     return true;
 }
     
-
+//send email
 app.post('/send-email', async(req, res) => {
     
     const { error } = emailSchema.validate(req.body);
