@@ -15,6 +15,7 @@ export const emailSchema = Joi.object({
     noteFromHost: Joi.string().required(),
     game: Joi.number().required(),
     selectedGame: Joi.array().items(Joi.object({
+        _id: Joi.string().required(),
         id: Joi.number().required(),
         name: Joi.string().required(),
         description: Joi.string().required(),
